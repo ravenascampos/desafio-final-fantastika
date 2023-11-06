@@ -4,6 +4,7 @@
 ## 💻 Projeto
 Desafio final do módulo 1 do curso de desenvolvimento front end com Cloud
 Aplicação responsiva utilizando o seguinte layout: [link do design](https://xd.adobe.com/view/c20d8ff9-baf0-4a06-b200-3ffde9c66040-975e/flow)
+Aplicação hospedada no git pages [link da aplicação](https://ravenascampos.github.io/desafio-final-fantastika/)
 
 ## Conceitos abordados
 - HTML

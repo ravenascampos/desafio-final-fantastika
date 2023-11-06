@@ -11,6 +11,10 @@ html {
   scroll-behavior: smooth;
 }
 
+a {
+  text-decoration: none;
+}
+
 button, li, p {
   font-family: 'Roboto', sans-serif;
 }
@@ -133,7 +137,11 @@ button {
 
 .section-2 button {
   background-color: #3A342F;
+}
+
+.section-2 a {
   color: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
 }
 
 .section-3 {
@@ -143,7 +151,11 @@ button {
 
 .section-3 button {
   background-color: #FFFFFF;
+}
+
+.section-3 a {
   color: #3A342F;
+  font-family: 'Roboto', sans-serif;
 }
 
 .section-4 {
@@ -163,6 +175,11 @@ button {
   font-size: 1rem;
   font-weight: 400;
   font-style: italic;
+}
+
+.section-4 a {
+  color: #EB4A7B;
+  font-family: 'Roboto Serif', serif;
 }
 
 .section-4 .havaianas {
@@ -223,6 +240,11 @@ footer .social-medias img {
   align-items: center;
   font-size: 1rem;
   cursor: pointer;
+}
+
+.menu-footer a {
+  color: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
 }
 
 @media only screen and (min-width: 600px) {
